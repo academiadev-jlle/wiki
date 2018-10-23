@@ -11,8 +11,8 @@ Nesta edição estão participando os Squads abaixo:
 
 ## Capitão
 
-| ![Vinicius](.gitbook/assets/vinicius.png) |  |
-| :--- | :--- |
+| ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png)| ![Vinicius](.gitbook/assets/vinicius.png)|
+| :--- | :--- | :--- | :--- |
 
 
 ## SRE's - Site Reliability Engineering
