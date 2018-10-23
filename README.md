@@ -11,7 +11,7 @@ Nesta edição estão participando os Squads abaixo:
 
 ## Capitão
 
-| ![enter image description here](https://lh3.googleusercontent.com/Xkfagst2qfS5FhaLIYPgeciSsfZK-32KGABQKL1Ste0ZrnRp1_aHmZFcgS7ye8qRSMhoZk1Uh6YsvA)|  dasdas|
+| ![Vinicius](https://lh3.googleusercontent.com/Xkfagst2qfS5FhaLIYPgeciSsfZK-32KGABQKL1Ste0ZrnRp1_aHmZFcgS7ye8qRSMhoZk1Uh6YsvA)|  dasdas|
 |--|--|
 
 ## SRE's - Site Reliability Engineering
