@@ -1,4 +1,4 @@
-# PetCodes - Wiki - BatataComBacon
+# Batata com Bacon
 
 Projeto de backend para o PetCodes, desenvolvimento das habilidades de programação através de uma plataforma para Busca, Doação, e Adoção de Pets.
 
@@ -6,17 +6,13 @@ Projeto de backend para o PetCodes, desenvolvimento das habilidades de programa�
 
 Instruções para clonar e rodar o projeto em sua máquina para propósito de desenvolvimento e testes.
 
-[//]: # ( These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.)
-
 **TODO**
 
 ### Pré-requisitos
 
 Softwares que são pré-requisito para a utlização do projeto.
 
-[//]: # (What things you need to install the software and how to install them)
-
-```
+```text
 TODO
 ```
 
@@ -24,42 +20,29 @@ TODO
 
 Um guia passo a passo para fazer a instalação do projeto.
 
-[//]: # (A step by step series of examples that tell you how to get a development env running)
-
-```
+```text
 TODO
 ```
-
-
-[//]: # (End with an example of getting some data out of the system or using it for a little demo)
 
 ## Testando
 
 **TODO**
 
-[//]: # (Explain how to run the automated tests for this system)
-
 ### Tipos de teste
 
 **TODO**
 
-[//]: # (Explain what these tests test and why)
-
-```
+```text
 **TODO**
 ```
 
 ### Outros testes de estilo de código
 
-[//]: # (Explain what these tests test and why)
-
-```
+```text
 TODO
 ```
 
 ## Implementação
-
-[//]: # ( Add additional notes about how to deploy this on a live system)
 
 ## Softwares Utilizados
 
@@ -83,7 +66,7 @@ TODO
 
 ## Licença
 
-Este projeto usa a licença Apache 2.0 - veja [LICENSE](LICENSE) para detalhes
+Este projeto usa a licença Apache 2.0 - veja [LICENSE](https://github.com/academiadev-joinville/wiki/tree/a92f5a1f989aa1cddd1a386f80022bf723ea9439/squads/LICENSE/README.md) para detalhes
 
 ## Reconhecimentos
 
@@ -98,5 +81,5 @@ Este projeto usa a licença Apache 2.0 - veja [LICENSE](LICENSE) para detalhes
 * Asaas
 * Treasy
 
-
 > Written with [StackEdit](https://stackedit.io/).
+

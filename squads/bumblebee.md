@@ -6,11 +6,11 @@ Projeto Desenvolvido junto ao curso Academia Dev Joinville para o registros de P
 
 TODO
 
-### Pré-requisitos 
+### Pré-requisitos
 
 TODO
 
-```
+```text
 Exemplo comando
 ```
 
@@ -18,18 +18,19 @@ Exemplo comando
 
 Para a instalação do projeto, é necessário inserir os seguintes comandos:
 
-```
-Exemplo comando 1 
+```text
+Exemplo comando 1
 ```
 
 ## Executando os testes
 
 Para executar os testes é necessário executar os seguintes comandos:
-```
+
+```text
 Exemplo comando 1
 ```
 
-## Deploy 
+## Deploy
 
 Informações de deploy... TODO
 
@@ -43,12 +44,14 @@ Informações de deploy... TODO
 
 * **Bruno Miguel Morais**  [GitHub](https://github.com/PurpleBooth)
 * **Victor Lucas de Melo Mafra**  [GitHub](https://github.com/PurpleBooth)
-*  **Vinícius de Oliveira**  [GitHub](https://github.com/PurpleBooth)
-*  **Wagner Esser**  [GitHub](https://github.com/PurpleBooth)
+* **Vinícius de Oliveira**  [GitHub](https://github.com/PurpleBooth)
+* **Wagner Esser**  [GitHub](https://github.com/PurpleBooth)
 
 ## Licença
 
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-## Conhecimentos 
+## Conhecimentos
+
 TODO
+

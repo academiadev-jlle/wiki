@@ -1,9 +1,12 @@
+# Suicide Squad
+
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/academiadev-joinville/projeto-wiki-suicidesquad.svg?columns=all)](https://waffle.io/academiadev-joinville/projeto-wiki-suicidesquad)
-# Projeto PetCodes - Wiki
+
+## Projeto PetCodes - Wiki
 
 Documentação do projeto gerenciador de animais achados, perdidos e para adoção.
 
-## Autores
+### Autores
 
 * **Time do backend:**
   * **Julio Caye** - [JCaye](https://github.com/JCaye) - Arquiteto/Analista
@@ -12,3 +15,4 @@ Documentação do projeto gerenciador de animais achados, perdidos e para adoç�
 * **Time do frontend:**
   * **Larissa Lopes** - [lopeslarissa](https://github.com/lopeslarissa) - Arquiteto/Analista
   * **Iago Elias** - [imarinheiro](https://github.com/imarinheiro) - Capitão
+
