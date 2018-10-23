@@ -11,11 +11,25 @@ Nesta edição estão participando os Squads abaixo:
 
 ## Capitão
 
+### Responsabilidades
+
+* Gerenciar as Sprints
+* +
+
+### Guild
+
 | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
-|         Vinicius |         Vinicius |         Vinicius |         Vincius |
+|   Vinicius - Squad |   Vinicius - Squad |   Vinicius - Squad |      Vinicius - Squad |
 
 ## SRE's - Site Reliability Engineering
+
+### Responsabilidades
+
+* Gerenciamento da nuvem
+* +
+
+### Guild
 
 | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
@@ -23,11 +37,25 @@ Nesta edição estão participando os Squads abaixo:
 
 ## Product Owner's / UX - User Experience
 
+### Responsabilidades
+
+* Direção do produto
+* +
+
+### Guild
+
 | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
 |         Vinicius |         Vinicius |         Vinicius |         Vincius |
 
 ## Arquiteto de Software / Analista de Sistemas
+
+### Responsabilidades
+
+* Boas práticas do desenvolvimento
+* +
+
+### Guild
 
 | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) | ![Vinicius](.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
