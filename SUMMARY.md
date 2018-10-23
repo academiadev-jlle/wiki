@@ -2,6 +2,14 @@
 
 * [AcademiaDEV: Joinville](README.md)
 
+## Projeto
+
+* [Introdução](projeto/introducao.md)
+
+## Guilds
+
+* [Introdução](guilds/introducao.md)
+
 ## Squads
 
 * [Bumblebee](squads/bumblebee.md)
