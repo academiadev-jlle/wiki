@@ -9,9 +9,9 @@
 
 ### Participantes
 
-| ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
+| ![vinicius](../.gitbook/assets/bumblebee-vinicius(capitao).png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
-|   Vinicius - Bumblebee |   Vinicius - Squad |   Vinicius - Squad |      Vinicius - Squad |
+| Vinícius - Bumblebee |         Vinicius |         Vinicius |         Vincius |
 
 ## Guild dos SRE's - Site Reliability Engineering
 
@@ -22,9 +22,9 @@
 
 ### Participantes
 
-| ![Vinicius](../.gitbook/assets/bruno.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
+| ![bruno_miguel](../.gitbook/assets/bumblebee-bruno(sre).png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
-| Bruno - Bumblebee |         Vinicius |         Vinicius |         Vincius |
+| Bruno Miguel - Bumblebee |         Vinicius |         Vinicius |         Vincius |
 
 ## Guild dos Product Owner's / UX - User Experience
 
@@ -35,7 +35,7 @@
 
 ### Participantes
 
-| ![Vinicius](../.gitbook/assets/victor.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
+| ![victor](../.gitbook/assets/bumblebee-victor(po).png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
 | Victor Lucas de Melo Mafra - Bumblebee |         Vinicius |         Vinicius |         Vincius |
 
@@ -48,7 +48,7 @@
 
 ### Participantes
 
-| ![Vinicius](../.gitbook/assets/wagner.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
+| ![wagner](../.gitbook/assets/bumblebee-wagner(arquiteto).png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
 | Wagner Esser - Bumblebee |         Vinicius |         Vinicius |         Vincius |
 
