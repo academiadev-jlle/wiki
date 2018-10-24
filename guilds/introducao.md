@@ -11,7 +11,7 @@
 
 | ![vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
-| Vinícius | Vinicius | Vinicius | Vincius |
+|         Vinícius |         Vinicius |         Vinicius |         Vincius |
 
 ## Guild dos SRE's - Site Reliability Engineering
 
@@ -24,7 +24,7 @@
 
 | ![Vinicius](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
-| Bruno Miguel | Vinicius | Vinicius | Vincius |
+| Bruno Miguel |         Vinicius |         Vinicius |         Vincius |
 
 ## Guild dos Product Owner's / UX - User Experience
 
@@ -37,7 +37,7 @@
 
 | ![Vinicius](../.gitbook/assets/bumblebee-victor-po.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
-| Victor | Vinicius | Vinicius | Vincius |
+|           Victor |         Vinicius |         Vinicius |         Vincius |
 
 ## Guild dos Arquitetos de Software / Analistas de Sistemas
 
@@ -50,5 +50,5 @@
 
 | ![Vinicius](../.gitbook/assets/bumblebee-wagner-arquiteto.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
-| Wagner Esser | Vinicius | Vinicius | Vincius |
+|       Wagner Esser |         Vinicius |         Vinicius |         Vincius |
 
