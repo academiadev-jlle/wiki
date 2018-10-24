@@ -48,7 +48,7 @@
 
 ### Participantes
 
-| !\[wagner\]\(../.gitbook/assets/bumblebee-wagner\(arquiteto\).png\) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
+| ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
-| Wagner Esser - Bumblebee | Vinicius | Vinicius | Vincius |
+| Wagner Esser | Vinicius | Vinicius | Vincius |
 
