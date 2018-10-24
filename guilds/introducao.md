@@ -9,7 +9,7 @@
 
 ### Participantes
 
-| ![vinicius](../.gitbook/assets/bumblebee-vinicius(capitao).png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
+| ![vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
 | Vinícius - Bumblebee |         Vinicius |         Vinicius |         Vincius |
 
