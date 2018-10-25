@@ -6,7 +6,7 @@ Acesse o site [start.spring.io](http://start.spring.io).
 
 Selecione as opções conforme abaixo:
 
-Generate a `Maven Project` with `Java` and Spring Boot `2.0.7 (SNAPSHOT)`
+_Generate_ a `Maven Project` with `Java` and Spring Boot `2.0.7 (SNAPSHOT)`
 
 **Group** `com.example`  
 **Artifact** `Demo`
