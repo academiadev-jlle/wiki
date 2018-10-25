@@ -31,3 +31,15 @@ Clique em **Finish.**
 
 **File -&gt; New -&gt; Project from Existing Sources -&gt; Selecione o diretório do arquivo** `build.gradle`
 
+### Comandos
+
+**Build**
+
+> **gradle build**
+
+**Iniciar Springboot**
+
+> gradle bootRun
+
+
+
