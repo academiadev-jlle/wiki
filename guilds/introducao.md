@@ -2,7 +2,7 @@
 
 ## Guild dos Capitães
 
-### Responsabilidades de um Capitão
+### Responsabilidades do Capitão
 
 * Gerenciar as Sprints
 * +
@@ -15,7 +15,7 @@
 
 ## Guild dos SRE's - Site Reliability Engineering
 
-### Responsabilidades de um SRE
+### Responsabilidades do SRE
 
 * Gerenciamento da nuvem
 * +
@@ -28,7 +28,7 @@
 
 ## Guild dos Product Owner's / UX - User Experience
 
-### Responsabilidades de um PO/UX
+### Responsabilidades do PO/UX
 
 * Direção do produto
 * +
@@ -41,7 +41,7 @@
 
 ## Guild dos Arquitetos de Software / Analistas de Sistemas
 
-### Responsabilidades de um Arquiteto/Analista
+### Responsabilidades do Arquiteto/Analista
 
 * Boas práticas do desenvolvimento
 * +
