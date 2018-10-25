@@ -9,9 +9,9 @@
 
 ### Participantes
 
-| ![vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/yuri.jpg) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
+| ![vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/yuri.jpg) | ![Vinicius](../.gitbook/assets/larissa2.jpg) | ![Vinicius](../.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
-|         Vinícius |              Yuri |         Vinicius |         Vincius |
+|         Vinícius |              Yuri |            Larissa |         Vincius |
 
 ## Guild dos SRE's - Site Reliability Engineering
 
