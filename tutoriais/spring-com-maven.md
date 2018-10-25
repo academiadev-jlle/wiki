@@ -6,7 +6,7 @@ Acesse o site [start.spring.io](http://start.spring.io).
 
 Selecione as opções conforme abaixo:
 
-_Generate_ a `Maven Project` with `Java` and Spring Boot `2.0.7 (SNAPSHOT)`
+Generate a `Maven Project` with `Java` and Spring Boot `2.0.7 (SNAPSHOT)`
 
 **Group** `com.example`  
 **Artifact** `Demo`
@@ -31,5 +31,17 @@ Clique em **Finish.**
 
 **File -&gt; New -&gt; Project from Existing Sources -&gt; Selecione o diretório do arquivo `Pom.xml`**
 
-\*\*\*\*
+## Comandos
+
+**Build do projeto**
+
+> mvn clean install
+
+**Iniciar spring boot**
+
+> mvn spring-boot:run
+
+
+
+
 
