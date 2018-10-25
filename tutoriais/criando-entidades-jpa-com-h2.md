@@ -31,7 +31,6 @@ public class Usuario {
     @GeneratedValue
     private Long id;
 
-    @OneToOne
     @NotNull
     @Size(min = 1, max = 120)
     private String nome;
@@ -157,6 +156,37 @@ Agora basta apenas rodar o método main da classe principal e digitar o endereç
 ```text
 http://localhost:8080/usuarios
 ```
+
+{% api-method method="get" host="http://localhost:8080" path="/usuarios" %}
+{% api-method-summary %}
+Recebe uma Lista de Usuários
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```javascript
+[{
+    id: 1,
+    nome: "Bruno Muehlbauer de Souza",
+    email: "docsbruno@gmail.com,
+    senha: "321$#@231"
+}]
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
 
 ## **POM**
 
