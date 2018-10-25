@@ -22,9 +22,9 @@
 
 ### Participantes
 
-| ![Vinicius](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Vinicius](../.gitbook/assets/ramon.jpg) | ![Vinicius](../.gitbook/assets/diogo.jpg) | ![Vinicius](../.gitbook/assets/vinicius.png) |
+| ![Vinicius](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Vinicius](../.gitbook/assets/ramon.jpg) | ![Vinicius](../.gitbook/assets/diogo.jpg) | ![Vinicius](../.gitbook/assets/marco.png) |
 | :--- | :--- | :--- | :--- |
-| Bruno Miguel |         Ramon |            Diogo |         Vincius |
+| Bruno Miguel |         Ramon |            Diogo |           Marco |
 
 ## Guild dos Product Owner's / UX - User Experience
 
