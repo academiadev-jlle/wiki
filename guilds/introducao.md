@@ -1,6 +1,6 @@
 # Introdução
 
-## Guild dos Capitães
+## Guild Capitão \(Definir Nome\)
 
 ### Responsabilidades do Capitão
 
@@ -13,7 +13,7 @@
 | :--- | :--- | :--- | :--- |
 |         Vinícius |              Yuri |            Larissa |              Iago |
 
-## Guild dos SRE's - Site Reliability Engineering
+## Guild SRE \(Definir nome\)
 
 ### Responsabilidades do SRE
 
@@ -26,7 +26,7 @@
 | :--- | :--- | :--- | :--- |
 | Bruno Miguel |         Ramon |            Diogo |           Marco |
 
-## Guild dos Product Owner's / UX - User Experience
+## Guild Product Owner's / UX - User Experience \(Definir nome\)
 
 ### Responsabilidades do PO/UX
 
@@ -39,7 +39,7 @@
 | :--- | :--- | :--- | :--- |
 |           Victor |         Vinicius |         Vinicius |         Vincius |
 
-## Guild dos Arquitetos de Software / Analistas de Sistemas
+## Guild Arquitetos de Software / Analistas de Sistemas \(Definir nome\)
 
 ### Responsabilidades do Arquiteto/Analista
 
