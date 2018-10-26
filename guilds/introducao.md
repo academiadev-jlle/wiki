@@ -35,7 +35,7 @@
 
 ### Participantes
 
-| ![Vinicius](../.gitbook/assets/bumblebee-victor-po.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
+| ![Vinicius](../.gitbook/assets/bumblebee-victor-po.png) | ![Vinicius](../.gitbook/assets/yan2.jpg) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
 | :--- | :--- | :--- | :--- |
 |           Victor |         Vinicius |         Vinicius |         Vincius |
 
