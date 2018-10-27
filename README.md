@@ -14,3 +14,5 @@ O programa envolve conhecimentos técnicos e multidisciplinares. Durante 12 sema
 * Assuntos multidisciplinares ligados a empresas de tecnologia \(investimento, equipes de trabalho, entre outros\)
 * Demais temas que fazem parte da formação para preparar profissionais em início de **carreira** para ingressar em uma **equipe** de **desenvolvimento** de software.
 
+by Bruno
+
