@@ -9,9 +9,9 @@
 
 ### Participantes
 
-| ![vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/yuri.jpg) | ![Vinicius](../.gitbook/assets/larissa2.jpg) | ![Vinicius](../.gitbook/assets/iago.png) |
+| ![vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/diogo.jpg) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/iago.png) |
 | :--- | :--- | :--- | :--- |
-|         Vinícius |              Yuri |            Larissa |              Iago |
+|         Vinícius |              Diogo |            Ruan |              Iago |
 
 ## Guild SRE \(Definir nome\)
 
@@ -22,9 +22,9 @@
 
 ### Participantes
 
-| ![Vinicius](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Vinicius](../.gitbook/assets/ramon.jpg) | ![Vinicius](../.gitbook/assets/diogo.jpg) | ![Vinicius](../.gitbook/assets/marco.png) |
+| ![Vinicius](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/yuri.jpg) | ![Vinicius](../.gitbook/assets/klimber.jpg) |
 | :--- | :--- | :--- | :--- |
-| Bruno Miguel |         Ramon |            Diogo |           Marco |
+| Bruno Miguel |            Helena |              Yuri |              Allan |
 
 ## Guild Product Owner's / UX - User Experience \(Definir nome\)
 
@@ -35,9 +35,9 @@
 
 ### Participantes
 
-| ![Vinicius](../.gitbook/assets/bumblebee-victor-po.png) | ![Vinicius](../.gitbook/assets/yan2.jpg) | ![Vinicius](../.gitbook/assets/adam.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
+| ![Vinicius](../.gitbook/assets/bumblebee-victor-po.png) | ![Vinicius](../.gitbook/assets/yan2.jpg) | ![Vinicius](../.gitbook/assets/ramon.jpg) | ![Vinicius](../.gitbook/assets/marco.png) |
 | :--- | :--- | :--- | :--- |
-|           Victor |         Vinicius |         Vinicius |         Vincius |
+|           Victor |            Yan |         Ramon |           Marco |
 
 ## Guild Arquitetos de Software / Analistas de Sistemas \(Definir nome\)
 

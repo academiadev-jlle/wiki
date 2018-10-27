@@ -2,10 +2,9 @@
 
 ## O Programa
 
- A AcademiaDEV tem grande o objetivo de encontrar e acelerar jovens fora da curva para que sejam engenheiros e engenheiras de software completos e preparados para entrar mais rapidamente em uma equipe de desenvolvimento de uma empresa de tecnologia de alto impacto.  
-  
-O programa envolve conhecimentos técnicos e multidisciplinares. Durante 12 semanas, os participantes passam por imersões com **workshops** e **mentorias** em:  
+A AcademiaDEV tem grande o objetivo de encontrar e acelerar jovens fora da curva para que sejam engenheiros e engenheiras de software completos e preparados para entrar mais rapidamente em uma equipe de desenvolvimento de uma empresa de tecnologia de alto impacto.
 
+O programa envolve conhecimentos técnicos e multidisciplinares. Durante 12 semanas, os participantes passam por imersões com **workshops** e **mentorias** em:
 
 * Desenvolvimento de Software com múltiplas tecnologias
 * Metodologias de trabalho \(Scrum\)
