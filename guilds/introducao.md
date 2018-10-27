@@ -9,7 +9,7 @@
 
 ### Participantes
 
-| ![vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/diogo.jpg) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/iago.png) |
+| ![vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/diogo.jpg) | ![Vinicius](../.gitbook/assets/ruan.jpg) | ![Vinicius](../.gitbook/assets/iago.png) |
 | :--- | :--- | :--- | :--- |
 |         Vinícius |              Diogo |            Ruan |              Iago |
 
@@ -48,7 +48,7 @@
 
 ### Participantes
 
-| ![Vinicius](../.gitbook/assets/bumblebee-wagner-arquiteto.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/vinicius.png) |
+| ![Vinicius](../.gitbook/assets/bumblebee-wagner-arquiteto.png) | ![Vinicius](../.gitbook/assets/adam.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/larissa2.jpg) |
 | :--- | :--- | :--- | :--- |
-|       Wagner Esser |         Vinicius |         Vinicius |         Vincius |
+|       Wagner Esser |            Adam |            Julio |           Larissa |
 
