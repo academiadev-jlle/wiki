@@ -151,3 +151,17 @@ Exemplo corrigido:
 ~~~java
 @PostMapping("/pets")
 ~~~
+
+## Cooperação com outras ferramentas
+
+Existem outras ferramentas que podem utilizar os dados gerados pelo Swagger
+para efetuar requisições e gerar documentação.
+
+### Postman
+
+O ambiente de desenvolvimento de APIs [Postman](https://www.getpostman.com/) suporta a importação do Swagger.
+
+1. Vá até a URL http://localhost:8080/v2/api-docs do seu aplicativo e copie o JSON retornado.
+2. No Postman, vá até o menu Import > Paste Raw Text e cole o conteúdo.
+
+Uma coleção será criada, como todos os métodos detectados pelo Swagger.
