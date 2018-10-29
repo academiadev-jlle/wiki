@@ -10,7 +10,7 @@ _**Dado** uma condição
 **Quando** eu executo uma ação  
 **Então** o resultado é esse_
 
-Dessa forma fica fácil de qualquer pessoa mesmo fora do projeto conseguir entender o que queremos. Mas como aplicar ao teste?
+Dessa forma fica fácil de entender o cenário e o objetivo do teste. Mas como aplicar ao Java?
 
 ```java
 @Test
@@ -20,5 +20,5 @@ public void dadoBoletos_quandoNaoTenhoBoletosNaBase_entaoRetornaZeroBoletos() th
 }
 ```
 
-Desta forma se em algum momento este teste quebrar, fica fácil de entender o objetivo do teste para corrigí-lo.
+Desta forma se em algum momento este teste quebrar, fica fácil de entender o objetivo do teste para corrigir.
 
