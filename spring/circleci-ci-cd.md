@@ -83,7 +83,9 @@ Agora já temos o circleCI funcionando. A cada push ele testará o código para 
 
 ![img4](../.gitbook/assets/imgci4.png)
 
-**Legenda** Vermelho: ocorreu algum erro  
+**Legenda:**
+
+ Vermelho: ocorreu algum erro  
  Amarelo: CircleCI está processando o código  
  Verde: não há erros!!!!!
 
