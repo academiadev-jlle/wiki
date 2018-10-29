@@ -1,7 +1,3 @@
----
-description: 'Autor: Yuri @yurihs Salvador'
----
-
 # Swagger
 
 O Swagger é uma biblioteca que permite a geração de um arquivo JSON que representa uma API a partir do código fonte. Assim, a descrição dos _endpoints_ pode ser feita a partir de anotações nos controladores e métodos.
