@@ -33,13 +33,13 @@ Se o Pull Request não atender algum dos requisitos definidos neste guideline, e
 
 * O código segue boas práticas, como [Clean Code](https://de.wikipedia.org/wiki/Clean_Code), [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself) e [SOLID](https://en.wikipedia.org/wiki/SOLID).
 * O código segue as convenções de código e arquitetura estabelecida pelo time?
-* O código segue as convenções da linguagem? \(Exemplo para Java: [Java Code Conventions](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf),[Google Java Style](https://google.github.io/styleguide/javaguide.html)\)
+* O código segue as convenções da linguagem? \( Exemplo para Java: [Java Code Conventions](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf), [Google Java Style](https://google.github.io/styleguide/javaguide.html) \)
 * O código está com a abstração correta? Se estiver utilizando herança, está utilizando ela corretamente?
 * O código está no lugar correto?
 * Quando existe mais de um padrão, o novo código está seguindo o padrão atual? O código está migrando para o padrão correto ou seguindo o padrão antigo?
 * O novo código não poderia reaproveitar código já existente? Está introduzindo código duplicado? Não poderia ser refatorado para um padrão reutilizável?
 * O código pode estar introduzindo problemas de segurança para a aplicação?
-* O código está adicionando funcionalidades que ainda não são necessárias? O código não pode ser simplificado? KISS e YAGNI \([Yagni - Martin Fowler](http://martinfowler.com/bliki/Yagni.html),[KISS and YAGNI - Coding Horror](http://blog.codinghorror.com/kiss-and-yagni/)\)
+* O código está adicionando funcionalidades que ainda não são necessárias? O código não pode ser simplificado?
 * Existem códigos não utilizados que poderiam ser removidos?
 * Quando adicionado uma nova dependência, realmente é necessário?
 * Exceções estão sendo tratadas corretamente?
