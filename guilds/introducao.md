@@ -51,6 +51,6 @@
 | ![Vinicius](../.gitbook/assets/bumblebee-wagner-arquiteto.png) | ![Vinicius](../.gitbook/assets/adam.png) | ![Vinicius](../.gitbook/assets/julio-caye.jpg) | ![Vinicius](../.gitbook/assets/larissa2.jpg) |
 | :--- | :--- | :--- | :--- |
 |       Wagner Esser |            Adam |            Julio |           Larissa |
-|  |  |  |  |
+| ![Vinicius](../.gitbook/assets/bumblebee-wagner-arquiteto.png) | ![Vinicius](../.gitbook/assets/adam.png) | ![Vinicius](../.gitbook/assets/julio-caye.jpg) | ![Vinicius](../.gitbook/assets/larissa2.jpg) |
 |     Luiz Gustavo |  Jim | Eber |  |
 
