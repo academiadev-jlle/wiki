@@ -2,7 +2,7 @@
 
 ## Capitão
 
-### Responsabilidades do Capitão
+### Responsabilidades
 
 * Gerenciar as Sprints
 * +
@@ -15,7 +15,7 @@
 
 ## SRE
 
-### Responsabilidades do SRE
+### Responsabilidades
 
 * Gerenciamento da nuvem
 * +
@@ -28,7 +28,7 @@
 
 ## Product Owner's / UX - User Experience
 
-### Responsabilidades do PO/UX
+### Responsabilidades
 
 * Direção do produto
 * +
@@ -41,7 +41,7 @@
 
 ## Arquitetos de Software / Analistas de Sistemas
 
-### Responsabilidades do Arquiteto/Analista
+### Responsabilidades
 
 * Boas práticas do desenvolvimento
 * +
