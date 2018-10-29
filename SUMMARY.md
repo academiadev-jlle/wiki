@@ -6,20 +6,24 @@
 
 * [Introdução](guilds/introducao.md)
 
-## Tutoriais
-
-* [Spring com Maven](tutoriais/spring-com-maven.md)
-* [Spring com Gradle](tutoriais/spring-com-gradle.md)
-* [Criando Entidades JPA com H2](tutoriais/criando-entidades-jpa-com-h2.md)
-
-## Teste Unitários
-
-* [Qual nome colocar?](teste-unitarios/qual-nome-colocar.md)
-
 ## Squads
 
 * [Bumblebee](squads/bumblebee.md)
 * [Thunderpets](squads/thunderpets.md)
 * [Suicide Squad](squads/suicide-squad.md)
 * [Batata com Bacon](squads/batata-com-bacon.md)
+
+## Spring
+
+* [Spring com Maven](tutoriais/spring-com-maven.md)
+* [Spring com Gradle](tutoriais/spring-com-gradle.md)
+
+## Teste Unitários
+
+* [Qual nome colocar?](teste-unitarios/qual-nome-colocar.md)
+
+## JPA
+
+* [Criando Entidades JPA com H2](jpa/criando-entidades-jpa-com-h2.md)
+* [Untitled](jpa/untitled.md)
 
