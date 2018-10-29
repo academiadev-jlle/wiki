@@ -9,7 +9,6 @@
 
 ## Membros
 
-| ![Bruno Miguel Morais](../.gitbook/assets/julio-caye.jpg) | ![Victor Lucas de Melo Mafra](../.gitbook/assets/iago.png) | ![Wagner Esser](../.gitbook/assets/larissa2.jpg) | ![Vinicius](../.gitbook/assets/yan2.jpg) | ![Yuri](../.gitbook/assets/yuri.jpg) |
-| :--- | :--- | :--- | :--- | :--- |
-|           Julio |            Iago |          Larissa |             Yan |             Yuri |
-
+| ![Julio Caye](../.gitbook/assets/julio-caye.jpg) | ![Iago Marinheiro](../.gitbook/assets/iago.png) | ![Larissa Lopes](../.gitbook/assets/larissa2.jpg) | ![Yuri](../.gitbook/assets/yuri.jpg) |![Yan](../.gitbook/assets/yan2.jpg) |
+| :--- | :--- | :--- | :--- |:--- |
+|            Julio |             Iago |          Larissa |             Yuri |             Yan |
