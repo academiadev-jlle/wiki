@@ -2,14 +2,14 @@
 
 ## Informações
 
-* [Waffle.io](https://waffle.io/academiadev-jlle/wiki-bumblebee)
-* [Wiki](https://github.com/academiadev-jlle/wiki-bumblebee)
-* [Projeto Backend](https://github.com/academiadev-jlle/backend-bumblebee)
-* [Projeto Frontend](https://github.com/academiadev-jlle/frontend-bumblebee)
+* [Waffle.io](https://waffle.io/academiadev-jlle/wiki-batatacombacon)
+* [Wiki](https://github.com/academiadev-jlle/wiki-batatacombacon)
+* [Projeto Backend](https://github.com/academiadev-jlle/backend-batatacombacon)
+* [Projeto Frontend](https://github.com/academiadev-jlle/frontend-batatacombacon)
 
 ## Membros
 
-| ![Bruno Miguel Morais](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Victor Lucas de Melo Mafra](../.gitbook/assets/bumblebee-victor-po.png) | ![Wagner Esser](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/bumblebee-wagner-arquiteto.png) |
+| ![Bruno Miguel Morais](../.gitbook/assets/ruan.jpg) | ![Victor Lucas de Melo Mafra](../.gitbook/assets/allan.jpg) | ![Wagner Esser](../.gitbook/assets/jim.jpg) | ![Vinicius](../.gitbook/assets/eber.jpg) |
 | :--- | :--- | :--- | :--- |
-| Bruno | Victor | Vinícius | Wagner |
+|             Ruan |            Allan |            Jim |          Eber |
 
