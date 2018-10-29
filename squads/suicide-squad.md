@@ -1,4 +1,4 @@
-# Bumblebee
+# Suicide Squad
 
 ## Informações
 
@@ -11,5 +11,5 @@
 
 | ![Bruno Miguel Morais](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Victor Lucas de Melo Mafra](../.gitbook/assets/bumblebee-victor-po.png) | ![Wagner Esser](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/bumblebee-wagner-arquiteto.png) |
 | :--- | :--- | :--- | :--- |
-|           Bruno |          Victor |           Vinícius |          Wagner |
+| Bruno | Victor | Vinícius | Wagner |
 
