@@ -9,7 +9,7 @@
 
 ## Membros
 
-| ![Bruno Miguel Morais](../.gitbook/assets/ruan.jpg) | ![Victor Lucas de Melo Mafra](../.gitbook/assets/allan.jpg) | ![Wagner Esser](../.gitbook/assets/jim.jpg) | ![Vinicius](../.gitbook/assets/eber.jpg) |
+| ![Bruno Miguel Morais](../.gitbook/assets/ruan.jpg) | ![Victor Lucas de Melo Mafra](../.gitbook/assets/allan.jpg) | ![Wagner Esser](../.gitbook/assets/jim.jpg) | ![Vinicius](../.gitbook/assets/eber.jpg) |![Vinicius](../.gitbook/assets/eber.jpg) |
 | :--- | :--- | :--- | :--- |
-|             Ruan |            Allan |            Jim |          Eber |
+|             Ruan |            Allan |            Jim |          Eber |         Eber |
 
