@@ -1,5 +1,5 @@
 ---
-description: 'Autor: Vinicius @viniciusbsi de Oliveira'
+description: 'Autor: Vinicius @viniciusbsi de Oliveira e Bruno @bmorais21 Miguel'
 ---
 
 # CircleCI - CI/CD
