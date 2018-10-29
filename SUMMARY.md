@@ -15,8 +15,8 @@
 
 ## Spring
 
-* [Spring com Maven](tutoriais/spring-com-maven.md)
-* [Spring com Gradle](tutoriais/spring-com-gradle.md)
+* [Spring com Maven](spring/spring-com-maven.md)
+* [Spring com Gradle](spring/spring-com-gradle.md)
 
 ## Teste Unitários
 
