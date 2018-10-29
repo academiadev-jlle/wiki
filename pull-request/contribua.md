@@ -29,7 +29,7 @@ Se o Pull Request não atender algum dos requisitos definidos neste guideline, e
 
 ## O que você deve avaliar em um Pull Request?
 
-**Design**
+### **Design**
 
 * O código segue boas práticas, como [Clean Code](https://de.wikipedia.org/wiki/Clean_Code), [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself) e [SOLID](https://en.wikipedia.org/wiki/SOLID).
 * O código segue as convenções de código e arquitetura estabelecida pelo time?
@@ -45,27 +45,27 @@ Se o Pull Request não atender algum dos requisitos definidos neste guideline, e
 * Exceções estão sendo tratadas corretamente?
 * Se foi criada uma nova dependência com um serviço externo, foi tomado o cuidado necessário para que uma eventual queda, lentidão ou mal-funcionamento do serviço externo não afete o sistema dependente?
 
-**Performance**
+### **Performance**
 
 * O código pode estar introduzindo problemas de performance?
 * O código utiliza as estruturas de dados corretas para aquele cenário?
 * O código realiza muitas consultas custosas ao banco de dados?
 
-**Legibilidade e Manutenibilidade**
+### **Legibilidade e Manutenibilidade**
 
 * Os nomes de classes, métodos, atributos, variáveis, parâmetros e afins refletem as coisas que elas representam?
 * Eu consigo entender o que o código faz lendo ele?
 * Eu consigo entender o que os testes fazem?
 * As mensagens de erros são entendíveis?
 
-**Funcionalidade**
+### **Funcionalidade**erformance
 
 * O código está fazendo o que ele supostamente deveria fazer?
 * Existem algum possível bug "oculto" como por exemplo checar uma variável errada ou utilizar um operador de comparação errado?
 * As mensagens de usuários estão escritas corretamente?
 * Existem erros óbvios que irão quebrar o ambiente de produção?
 
-**Testes**
+### **Testes**
 
 * Os testes cobrem uma boa quantidade de cenários? Cobrem cenários felizes e casos de exceção? Existem casos que não foram considerados e deveriam ter sido considerado?
 * Existem testes que garantem que o código está realizando corretamente sua função? O teste está realmente testando os critérios de aceitação daquela funcionalidade?
