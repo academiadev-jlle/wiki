@@ -119,6 +119,10 @@ public Docket apis() {
 }
 ~~~
 
+{% hint style='success' %}
+Pronto! Está tudo configurado.
+{% endhint %}
+
 ![Página do Swagger UI limitada aos controladores do projeto](../.gitbook/assets/swagger-ui-limitado.png)
 
 ## Resolução de problemas
