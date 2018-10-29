@@ -128,7 +128,7 @@ abaixo para identificar a solução para o seu problema.
 
 ### Erro 405 Method Not Allowed
 
-Se ao tentar acessar a página do Swagger UI, você se deparar com um o erro da imagem abaixo, é possível que há um mapeamento errôneo em algum de seus controladores.
+Se ao tentar acessar a página do Swagger UI, você se deparar com o erro da imagem abaixo, é possível que exista um mapeamento errôneo em algum de seus controladores.
 
 ![Página de erro Method not Allowed](../.gitbook/assets/swagger-ui-erro-method-not-allowed.png)
 
@@ -164,4 +164,4 @@ O ambiente de desenvolvimento de APIs [Postman](https://www.getpostman.com/) sup
 1. Vá até a URL http://localhost:8080/v2/api-docs do seu aplicativo e copie o JSON retornado.
 2. No Postman, vá até o menu Import > Paste Raw Text e cole o conteúdo.
 
-Uma coleção será criada, como todos os métodos detectados pelo Swagger.
+Uma coleção será criada, contendo todos os métodos detectados pelo Swagger.
