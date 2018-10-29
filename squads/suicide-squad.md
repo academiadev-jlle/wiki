@@ -9,7 +9,6 @@
 
 ## Membros
 
-| ![Julio](../.gitbook/assets/julio-caye.jpg) | ![Iago Marinheiro](../.gitbook/assets/iago.png) | ![Larissa Lopes](../.gitbook/assets/larissa2.jpg) | ![Yan](../.gitbook/assets/yan2.jpg) |
-| :--- | :--- | :--- | :--- |
-|            Julio |             Iago |          Larissa |             Yan |
-
+| ![Julio Caye](../.gitbook/assets/julio-caye.jpg) | ![Iago Marinheiro](../.gitbook/assets/iago.png) | ![Larissa Lopes](../.gitbook/assets/larissa2.jpg) | ![Yuri](../.gitbook/assets/yan2.jpg) |![Yan](../.gitbook/assets/yan2.jpg) |
+| :--- | :--- | :--- | :--- |:--- |
+|            Julio |             Iago |          Larissa |             Yuri |             Yan |
