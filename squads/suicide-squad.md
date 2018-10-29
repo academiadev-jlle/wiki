@@ -2,14 +2,14 @@
 
 ## Informações
 
-* [Waffle.io](https://waffle.io/academiadev-jlle/wiki-bumblebee)
-* [Wiki](https://github.com/academiadev-jlle/wiki-bumblebee)
-* [Projeto Backend](https://github.com/academiadev-jlle/backend-bumblebee)
-* [Projeto Frontend](https://github.com/academiadev-jlle/frontend-bumblebee)
+* [Waffle.io](https://waffle.io/academiadev-jlle/wiki-suicidesquad)
+* [Wiki](https://github.com/academiadev-jlle/wiki-suicidesquad)
+* [Projeto Backend](https://github.com/academiadev-jlle/backend-suicidesquad)
+* [Projeto Frontend](https://github.com/academiadev-jlle/frontend-suicidesquad)
 
 ## Membros
 
-| ![Bruno Miguel Morais](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Victor Lucas de Melo Mafra](../.gitbook/assets/bumblebee-victor-po.png) | ![Wagner Esser](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/bumblebee-wagner-arquiteto.png) |
+| ![Bruno Miguel Morais](../.gitbook/assets/julio-caye.jpg) | ![Victor Lucas de Melo Mafra](../.gitbook/assets/iago.png) | ![Wagner Esser](../.gitbook/assets/larissa2.jpg) | ![Vinicius](../.gitbook/assets/yan2.jpg) |
 | :--- | :--- | :--- | :--- |
-| Bruno | Victor | Vinícius | Wagner |
+|            Julio |             Igor |          Larissa |             Yan |
 
