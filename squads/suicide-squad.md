@@ -1,18 +1,15 @@
-# Suicide Squad
+# Bumblebee
 
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/academiadev-joinville/projeto-wiki-suicidesquad.svg?columns=all)](https://waffle.io/academiadev-joinville/projeto-wiki-suicidesquad)
+## Informações
 
-## Projeto PetCodes - Wiki
+* [Waffle.io](https://waffle.io/academiadev-jlle/wiki-bumblebee)
+* [Wiki](https://github.com/academiadev-jlle/wiki-bumblebee)
+* [Projeto Backend](https://github.com/academiadev-jlle/backend-bumblebee)
+* [Projeto Frontend](https://github.com/academiadev-jlle/frontend-bumblebee)
 
-Documentação do projeto gerenciador de animais achados, perdidos e para adoção.
+## Membros
 
-### Autores
-
-* **Time do backend:**
-  * **Julio Caye** - [JCaye](https://github.com/JCaye) - Arquiteto/Analista
-  * **Yan Henning** - [Yanhennning](https://github.com/Yanhenning) - PO
-  * **Yuri Salvador** - [Yurihs](https://github.com/yurihs) - SRE
-* **Time do frontend:**
-  * **Larissa Lopes** - [lopeslarissa](https://github.com/lopeslarissa) - Arquiteto/Analista
-  * **Iago Elias** - [imarinheiro](https://github.com/imarinheiro) - Capitão
+| ![Bruno Miguel Morais](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Victor Lucas de Melo Mafra](../.gitbook/assets/bumblebee-victor-po.png) | ![Wagner Esser](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/bumblebee-wagner-arquiteto.png) |
+| :--- | :--- | :--- | :--- |
+|           Bruno |          Victor |           Vinícius |          Wagner |
 
