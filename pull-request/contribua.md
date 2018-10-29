@@ -31,7 +31,7 @@ Se o Pull Request não atender algum dos requisitos definidos neste guideline, e
 
 **Design**
 
-* O código segue boas práticas, como [Clean Code](https://de.wikipedia.org/wiki/Clean_Code), [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself) e \[SOLID\]\([https://en.wikipedia.org/wiki/SOLID\_\(object-oriented\_design\)\)?](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29%29?)
+* O código segue boas práticas, como [Clean Code](https://de.wikipedia.org/wiki/Clean_Code), [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself) e [SOLID](https://en.wikipedia.org/wiki/SOLID).
 * O código segue as convenções de código e arquitetura estabelecida pelo time?
 * O código segue as convenções da linguagem? \(Exemplo para Java: [Java Code Conventions](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf),[Google Java Style](https://google.github.io/styleguide/javaguide.html)\)
 * O código está com a abstração correta? Se estiver utilizando herança, está utilizando ela corretamente?
