@@ -30,5 +30,5 @@
 
 ## Pull Request
 
-* [Meu Pull Request](pull-request/contribua.md)
+* [Criando um bom Pull Request](pull-request/contribua.md)
 
