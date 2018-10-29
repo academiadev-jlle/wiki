@@ -120,3 +120,34 @@ public Docket apis() {
 ~~~
 
 ![Página do Swagger UI limitada aos controladores do projeto](../.gitbook/assets/swagger-ui-limitado.png)
+
+## Resolução de problemas
+
+Caso algo não deu certo no processo descrito acima, verifique as seções
+abaixo para identificar a solução para o seu problema.
+
+### Erro 405 Method Not Allowed
+
+Se ao tentar acessar a página do Swagger UI, você se deparar com um o erro da imagem abaixo, é possível que há um mapeamento errôneo em algum de seus controladores.
+
+![Página de erro Method not Allowed](../.gitbook/assets/swagger-ui-erro-method-not-allowed.png)
+
+Verifique se há algum método com um mapeamento POST na raiz, como no exemplo abaixo:
+
+~~~java
+@PostMapping
+Pet createPet(@RequestBody Pet pet) {
+    return petService.save(pet);
+}
+~~~
+
+A anotação `@PostMapping` sem argumentos terá como padrão a raiz.
+
+**Ressalva:** caso o controlador possua um `@RequestMapping` diferente da
+raiz, o exemplo acima não deve ser um problema.
+
+Exemplo corrigido:
+
+~~~java
+@PostMapping("/pets")
+~~~
