@@ -14,7 +14,6 @@
 
 ## Squads
 
-* [Introdução](squads/introducao.md)
 * [Bumblebee](squads/bumblebee.md)
 * [Thunderpets](squads/thunderpets.md)
 * [Suicide Squad](squads/suicide-squad.md)
