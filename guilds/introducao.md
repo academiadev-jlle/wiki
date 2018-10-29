@@ -1,6 +1,6 @@
 # Introdução
 
-## Guild Capitão \(Definir Nome\)
+## Capitão
 
 ### Responsabilidades do Capitão
 
@@ -13,7 +13,7 @@
 | :--- | :--- | :--- | :--- |
 |          Vinícius |            Diogo |              Ruan |             Iago |
 
-## Guild SRE \(Definir nome\)
+## SRE
 
 ### Responsabilidades do SRE
 
@@ -26,7 +26,7 @@
 | :--- | :--- | :--- | :--- |
 |       Bruno Miguel |           Helena |               Yuri |              Allan |
 
-## Guild Product Owner's / UX - User Experience \(Definir nome\)
+## Product Owner's / UX - User Experience
 
 ### Responsabilidades do PO/UX
 
@@ -39,7 +39,7 @@
 | :--- | :--- | :--- | :--- |
 |           Victor |              Yan  |           Ramon |            Marco |
 
-## Guild Arquitetos de Software / Analistas de Sistemas \(Definir nome\)
+## Arquitetos de Software / Analistas de Sistemas
 
 ### Responsabilidades do Arquiteto/Analista
 
