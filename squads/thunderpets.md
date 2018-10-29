@@ -1,14 +1,15 @@
-# Thunderpets
+# Bumblebee
 
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/academiadev-joinville/projeto-wiki-thunderpets.svg?columns=all)](https://waffle.io/academiadev-joinville/projeto-wiki-thunderpets)
+## Informações
 
-Documentação dos projetos Thunderpets - Backend e Thunderpets - Frontend que visam o desenvolvimento de uma plataforma web para publicação e busca de animais perdidos, achados ou disponíveis para adoção.
+* [Waffle.io](https://waffle.io/academiadev-jlle/wiki-bumblebee)
+* [Wiki](https://github.com/academiadev-jlle/wiki-bumblebee)
+* [Projeto Backend](https://github.com/academiadev-jlle/backend-bumblebee)
+* [Projeto Frontend](https://github.com/academiadev-jlle/frontend-bumblebee)
 
-## Autores
+## Membros
 
-* [Adam Mews](https://github.com/liserline) - Arquiteto Backend
-* [Diogo Antelo](https://github.com/DiogoAntelo) - Capitão
-* [Helena Dalmazo](https://github.com/nefasta) - SRE
-* [Luiz Gustavo Eburneo](https://github.com/Botuca) - Arquiteto Frontend
-* [Ramon Artner](https://github.com/rartner) - PO
+| ![Bruno Miguel Morais](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Victor Lucas de Melo Mafra](../.gitbook/assets/bumblebee-victor-po.png) | ![Wagner Esser](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/bumblebee-wagner-arquiteto.png) |
+| :--- | :--- | :--- | :--- |
+|           Bruno |          Victor |           Vinícius |          Wagner |
 
