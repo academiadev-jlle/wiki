@@ -34,4 +34,6 @@
 * [GitFlow](pull-request/gitflow.md)
 
 ## Segurança
-* [Autenticação com Spring e OAuth2](oauth2/oauth2.md)
+
+* [Autenticação com Spring e OAuth2](seguranca/oauth2.md)
+

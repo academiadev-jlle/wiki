@@ -1,7 +1,3 @@
----
-description: 'Autor:  Bruno Miguel e Vinícius Oliveira'
----
-
 # GitFlow
 
 ## Como trabalhar com branches git flow
