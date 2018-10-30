@@ -1,7 +1,3 @@
----
-description: 'Autor: Vinicius @viniciusbsi de Oliveira e Bruno @bmorais21 Miguel'
----
-
 # CircleCI - CI/CD
 
 CircleCI é uma ferramenta de integração contínua. Ao integrá-la ao GitHub, a ferramenta permite que sejam criados testes automatizados a cada tentativa de atualização na branch master.

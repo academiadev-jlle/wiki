@@ -31,4 +31,5 @@
 ## Pull Request
 
 * [Criando um bom Pull Request](pull-request/contribua.md)
+* [GitFlow](pull-request/gitflow.md)
 
