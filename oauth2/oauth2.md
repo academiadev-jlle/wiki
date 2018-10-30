@@ -309,6 +309,8 @@ Se tentarmos realizar um GET direto para a url `http://localhost:8080/oauth/toke
  - **username:** client-id
  - **password:** secret-id
 
+![](../.gitbook/assets/configurando-secret.png)
+
 Agora, ao realizarmos a requisição, devemos obter outro (mais um) erro: `There is no PasswordEncoder mapped for the id "null"`. Isso significa que o OAuth2 não aceita senhas no formato de texto puro e que devemos adicionar algum encriptador de senhas.
 
 ## Configurando o encriptador de senhas
@@ -339,7 +341,7 @@ Agora, ao realizarmos uma requisição GET para `http://localhost:8080/oauth/tok
 ```
 Agora podemos utilizar esse *token* para realizarmos a requisição. Para isso, supondo que queriamos uma lista de usuários, devemos configurar a requisição da seguinte maneira: selecionaremos o tipo de autenticação como "Bearer", colocaremos o nosso *token* gerado no campo "token" e preencheremos o prefixo com o valor "Bearer"
 
--- colocar imagem do insomnia --
+![](../.gitbook/assets/configurando-bearer.png)
 
 Porém, ao realizarmos essa requisição, ainda teremos problemas de falta de autorização. Por que? Porque não dissemos que esta URL estaria disponível para quem estivesse autenticado.
 
@@ -366,7 +368,15 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 	}
 }
 ```
-Aqui estamos definindo que as requisições do método POST para a url `http://localhost:8080/usuario` estão permitidas para todos, enquanto o GET está liberado apenas para usuários autenticados. Com isso, pode-se realizar os testes e o comportamento deverá ser como o esperado.
+Aqui estamos definindo que as requisições do método POST para a url `http://localhost:8080/usuario` estão permitidas para todos, enquanto o GET está liberado apenas para usuários autenticados. Com isso, pode-se realizar os testes e o comportamento deverá ser como o esperado. Ou seja, podemos realizar um POST para cadastrar um novo usuário:
+
+![](../.gitbook/assets/cadastro.png)
+
+Ao realizarmos uma requisição GET sem configurar o *token*, o comportamento deve ser:
+![](../.gitbook/assets/busca-sem-token.png)
+
+Porém, após adicionarmos o *token* de segurança, devemos obter:
+![](../.gitbook/assets/busca-com-token.png)
 
 Para que os usuários que estão sendo cadastrados com o método POST também possam ser utilizados na geração dos *tokens*, precisaremos adicionar uma linha no nosso método de salvar dentro do nosso *controller* de Usuários:
 ```java
@@ -378,3 +388,12 @@ pois, a partir de agora, todos os nossos usuários devem ter a senha encriptada.
 Quando quisermos apenas atualizar o *token* do usuário já conectado, podemos enviar uma requisição para a mesma url, porém da forma `http://localhost:8080/oauth/token?grant_type=refresh_token&refresh_token={REFRESH_TOKEN}`, sendo *REFRESH_TOKEN* o mesmo que foi retornado no momento da autenticação do usuário.
 
 O projeto construído durante esse tutorial pode ser encontrado [neste link](http://github.com/rartner/autenticacao).
+
+#### Referências
+[OAuth2 Developers Guide](https://projects.spring.io/spring-security-oauth/docs/oauth2.html)
+
+[Simple Single Sign-On with Spring Security OAuth2](https://www.baeldung.com/sso-spring-security-oauth2)
+
+[Secure Spring REST With Spring Security and OAuth2](https://dzone.com/articles/secure-spring-rest-with-spring-security-and-oauth2)
+
+[7 STEPS TO IMPLEMENT OAUTH 2 IN SPRING BOOT WITH SPRING SECURITY](https://jugbd.org/2017/09/19/implementing-oauth2-spring-boot-spring-security/)
