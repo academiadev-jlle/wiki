@@ -1,3 +1,7 @@
+---
+description: 'Autor:  Bruno Miguel e Vinícius Oliveira'
+---
+
 # GitFlow
 
 ## Como trabalhar com branches git flow
@@ -29,11 +33,27 @@ Para enviar os commits, não esqueça de dar o push com a origin:
 $git push origin feature/nome_feature
 ```
 
-Na issue, ficará deste jeito: ![img1](./pull-request/img1.png)
+Na issue, ficará deste jeito: 
+
+![](../.gitbook/assets/img1.png)
 
 ### Concluindo a sua tarefa e fazendo pull request
 
-Após as concluir suas tarefas pertencentes aquela branch, será necessário fazer um pull request para a branch **release**. Sua tela inicial do git, será como esta: ![img2](./pull-request/img2.png) Clicando em Compare & pull request, irá para tela de pull request \(próxima imagem\), nela você escolherá a branch que irá fazer o pull request \(a da esquerda\) que será a **release**. Após a escolha, descreva o que foi feito e peça o pull request.
+Após as concluir suas tarefas pertencentes aquela branch, será necessário fazer um pull request para a branch **release**. Sua tela inicial do git, será como esta: 
 
-![img3](./pull-request/img3.png) Após o procedimento, o pull request será negado ou aceito, no caso se aceito, clique em **merge pull request**. ![img4](./pull-request/img4.png) Após isso, virá para esta tela, então poderá deletar a branch com o botão **delete branch**. ![img5](./pull-request/img5.png) Por Bruno Miguel e Vinícius Oliveira
+![](../.gitbook/assets/img2.png)
+
+ Clicando em Compare & pull request, irá para tela de pull request \(próxima imagem\), nela você escolherá a branch que irá fazer o pull request \(a da esquerda\) que será a **release**. Após a escolha, descreva o que foi feito e peça o pull request.
+
+![](../.gitbook/assets/img3.png)
+
+Após o procedimento, o pull request será negado ou aceito, no caso se aceito, clique em **merge pull request**. 
+
+![](../.gitbook/assets/img4.png)
+
+Após isso, virá para esta tela, então poderá deletar a branch com o botão **delete branch**. 
+
+![](../.gitbook/assets/img5.png)
+
+
 
