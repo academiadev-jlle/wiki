@@ -33,3 +33,5 @@
 * [Criando um bom Pull Request](pull-request/contribua.md)
 * [GitFlow](pull-request/gitflow.md)
 
+## Segurança
+* [Autenticação com Spring e OAuth2](oauth2/oauth2.md)
