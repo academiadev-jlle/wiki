@@ -127,7 +127,7 @@ ao nosso `build.gradle` e iniciarmos a aplicação, ao realizarmos qualquer uma 
 
 Esta mensagem significa que não possuimos autorização para realizar nenhuma das requisições. Porém, como queremos que apenas a requisição de listagem precise de autorização para ser executada, este comportamento está errado.
 
-Precisamos agora colocar mais uam dependência no nosso projeto: `compile('org.springframework.security.oauth:spring-security-oauth2:2.3.4.RELEASE')` Esta biblioteca possui o que nós precisamos para criarmos nosso gerenciador de _tokens_ de segurança.
+Precisamos agora colocar mais uma dependência no nosso projeto: `compile('org.springframework.security.oauth:spring-security-oauth2:2.3.4.RELEASE')` Esta biblioteca possui o que nós precisamos para criarmos nosso gerenciador de _tokens_ de segurança.
 
 ## Configurando o servidor de autenticação
 
