@@ -37,3 +37,7 @@
 
 * [Autenticação com Spring e OAuth2](seguranca/oauth2.md)
 
+## Exercícios
+
+* [Minhas finanças](exercicios/minhas-financas.md)
+
