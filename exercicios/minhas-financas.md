@@ -340,6 +340,7 @@ Criar uma entidade
     "id": 1,
     "nome": "Advocacia S.A",
     "status": "ATIVO",
+    "tipo": "FORNECEDOR",
     "created_at": "2018-11-07 12:05"
 }
 ```
@@ -434,7 +435,7 @@ Criar uma conta
     "saldo": 0.00,
     "status": "ATIVO",
     "created_at": "2018-11-01 11:50"
-}018-11-07
+}
 
 ```
 {% endapi-method-response-example %}
