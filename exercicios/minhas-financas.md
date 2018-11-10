@@ -47,7 +47,7 @@ Criar uma **API** Rest que ira gerenciar as finanças dos seus usuários. A **AP
 
 #### Usuários
 
-{% api-method method="post" host="http://localhost:8080" path="/v1/financas/usuario" %}
+{% api-method method="post" host="http://localhost:8080" path="/financas/usuario" %}
 {% api-method-summary %}
 Criar usuário
 {% endapi-method-summary %}
@@ -103,7 +103,7 @@ Criar usuário
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="http://localhost:8080" path="/v1/financas/usuario" %}
+{% api-method method="get" host="http://localhost:8080" path="/financas/usuario" %}
 {% api-method-summary %}
 Buscar todos os usuários
 {% endapi-method-summary %}
@@ -145,7 +145,7 @@ Buscar todos os usuários
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="http://localhost:8080" path="/v1/financas/usuario/:id" %}
+{% api-method method="get" host="http://localhost:8080" path="/financas/usuario/:id" %}
 {% api-method-summary %}
 Buscar usuário por id
 {% endapi-method-summary %}
@@ -201,7 +201,7 @@ Um lançamento financeiro pode ser:
 * A Pagar
 * A Receber
 
-{% api-method method="post" host="http://localhost:8080" path="/v1/financas/usuario/:id/lancamento" %}
+{% api-method method="post" host="http://localhost:8080" path="/financas/usuario/:id/lancamento" %}
 {% api-method-summary %}
 Criar um lançamento financeiro
 {% endapi-method-summary %}
@@ -249,7 +249,7 @@ Criar um lançamento financeiro
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="http://localhost:8080" path="/v1/financas/usuario/:id/lancamento" %}
+{% api-method method="get" host="http://localhost:8080" path="/financas/usuario/:id/lancamento" %}
 {% api-method-summary %}
 Buscar todos os lançamentos de um usuário
 {% endapi-method-summary %}
@@ -275,7 +275,7 @@ Buscar todos os lançamentos de um usuário
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="http://localhost:8080" path="/v1/financas/usuario/:id/lancamento/:id" %}
+{% api-method method="get" host="http://localhost:8080" path="/financas/usuario/:id/lancamento/:id" %}
 {% api-method-summary %}
 Buscar um lançamento por id
 {% endapi-method-summary %}
@@ -308,7 +308,7 @@ Uma entidade pode ser do tipo:
 * Cliente
 * Fornecedor
 
-{% api-method method="post" host="http://localhost:8080" path="/v1/financas/usuario/:id/entidade" %}
+{% api-method method="post" host="http://localhost:8080" path="/financas/usuario/:id/entidade" %}
 {% api-method-summary %}
 Criar uma entidade
 {% endapi-method-summary %}
@@ -349,7 +349,7 @@ Criar uma entidade
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="http://localhost:8080" path="/v1/financas/usuario/:id/entidade" %}
+{% api-method method="get" host="http://localhost:8080" path="/financas/usuario/:id/entidade" %}
 {% api-method-summary %}
 Buscar todas as entidades de um usuário
 {% endapi-method-summary %}
@@ -375,7 +375,7 @@ Buscar todas as entidades de um usuário
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="http://localhost:8080" path="/v1/usuario/:id/entidade:id" %}
+{% api-method method="get" host="http://localhost:8080" path="/usuario/:id/entidade:id" %}
 {% api-method-summary %}
 Buscar entidade por id
 {% endapi-method-summary %}
@@ -403,7 +403,7 @@ Buscar entidade por id
 
 ### Conta
 
-{% api-method method="post" host="http://localhost:8080" path="/v1/financas/usuario/:id/conta" %}
+{% api-method method="post" host="http://localhost:8080" path="/financas/usuario/:id/conta" %}
 {% api-method-summary %}
 Criar uma conta
 {% endapi-method-summary %}
@@ -443,7 +443,7 @@ Criar uma conta
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="http://localhost::8080" path="/v1/financas/usuario/:id/conta/:id/lancamentos" %}
+{% api-method method="get" host="http://localhost::8080" path="/financas/usuario/:id/conta/:id/lancamentos" %}
 {% api-method-summary %}
 Buscar todos os lançamento de uma conta
 {% endapi-method-summary %}
@@ -475,7 +475,7 @@ Buscar todos os lançamento de uma conta
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="http://localhost:8080" path="/v1/financas/usuario/:id/conta" %}
+{% api-method method="get" host="http://localhost:8080" path="/financas/usuario/:id/conta" %}
 {% api-method-summary %}
 Buscar todas as contas de um usuário
 {% endapi-method-summary %}
@@ -501,7 +501,7 @@ Buscar todas as contas de um usuário
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="http://localhost:8080" path="/v1/financas/usuario/:id/conta/:id" %}
+{% api-method method="get" host="http://localhost:8080" path="/financas/usuario/:id/conta/:id" %}
 {% api-method-summary %}
 Buscar conta por id
 {% endapi-method-summary %}
@@ -527,7 +527,7 @@ Buscar conta por id
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="http://localhost:8080" path="/v1/usuario/:id/conta/:idconta/:idlancamento?do=baixar" %}
+{% api-method method="post" host="http://localhost:8080" path="/usuario/:id/conta/:idconta/:idlancamento?do=baixar" %}
 {% api-method-summary %}
 Baixar um lançamento
 {% endapi-method-summary %}
@@ -562,7 +562,7 @@ Baixar
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="http://localhost:8080" path="/v1/financas/usuario/:id/conta/:idconta/:idlancamento?do=estornar" %}
+{% api-method method="post" host="http://localhost:8080" path="/financas/usuario/:id/conta/:idconta/:idlancamento?do=estornar" %}
 {% api-method-summary %}
 Estornar um lançamento
 {% endapi-method-summary %}
