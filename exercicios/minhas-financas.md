@@ -201,7 +201,7 @@ Um lançamento financeiro pode ser:
 * A Pagar
 * A Receber
 
-{% api-method method="post" host="http://localhost:8080" path="/financas/usuario/:id/lancamento" %}
+{% api-method method="post" host="http://localhost:8080" path="/financas/usuario/:id/entidade/:id/lancamento" %}
 {% api-method-summary %}
 Criar um lançamento financeiro
 {% endapi-method-summary %}
@@ -219,7 +219,7 @@ Criar um lançamento financeiro
    "descricao": "Lanchonete",  
    "observacao": "Esqueci o cartão",  
    "valor": 16.50,  
-   "entidade_id": 1,  
+  
    "tipo": "RECEBER"  
 }`
 {% endapi-method-parameter %}
