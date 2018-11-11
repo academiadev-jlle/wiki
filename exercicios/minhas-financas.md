@@ -219,6 +219,7 @@ Criar um lançamento financeiro
    "descricao": "Lanchonete",  
    "observacao": "Esqueci o cartão",  
    "valor": 16.50,  
+   "entidade_id": 1,  
    "tipo": "RECEBER"  
 }`
 {% endapi-method-parameter %}
