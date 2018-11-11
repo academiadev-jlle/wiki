@@ -9,7 +9,7 @@
 
 ## Membros
 
-| ![Bruno Miguel Morais](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Victor Lucas de Melo Mafra](../.gitbook/assets/ramon.jpg) | ![Wagner Esser](../.gitbook/assets/luiz-gustavo.jpg) | ![Vinicius](../.gitbook/assets/adam.png) | ![Diogo](../.gitbook/assets/diogo.jpg) |
+| ![Bruno Miguel Morais](../.gitbook/assets/helena.jpg) | ![Victor Lucas de Melo Mafra](../.gitbook/assets/ramon.jpg) | ![Wagner Esser](../.gitbook/assets/luiz-gustavo.jpg) | ![Vinicius](../.gitbook/assets/adam.png) | ![Diogo](../.gitbook/assets/diogo.jpg) |
 | :--- | :--- | :--- | :--- | :--- |
 |           Helena |           Ramon |      Luiz Gustavo |           Adam |            Diogo |
 

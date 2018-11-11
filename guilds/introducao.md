@@ -8,7 +8,7 @@
 
 ## SRE
 
-| ![Vinicius](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Vinicius](../.gitbook/assets/vinicius.png) | ![Vinicius](../.gitbook/assets/yuri.jpg) | ![Vinicius](../.gitbook/assets/klimber.jpg) |
+| ![Vinicius](../.gitbook/assets/bumblebee-bruno-sre.png) | ![Vinicius](../.gitbook/assets/helena.jpg) | ![Vinicius](../.gitbook/assets/yuri.jpg) | ![Vinicius](../.gitbook/assets/klimber.jpg) |
 | :--- | :--- | :--- | :--- |
 |       Bruno Miguel |           Helena |               Yuri |              Allan |
 
