@@ -339,6 +339,7 @@ Criar uma entidade
 {
     "id": 1,
     "nome": "Advocacia S.A",
+    "usuario_id": 1,
     "status": "ATIVO",
     "tipo": "FORNECEDOR",
     "created_at": "2018-11-07 12:05"
@@ -375,7 +376,7 @@ Buscar todas as entidades de um usuário
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="http://localhost:8080" path="/usuario/:id/entidade:id" %}
+{% api-method method="get" host="http://localhost:8080" path="/financas/usuario/:id/entidade:id" %}
 {% api-method-summary %}
 Buscar entidade por id
 {% endapi-method-summary %}
@@ -527,7 +528,7 @@ Buscar conta por id
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="http://localhost:8080" path="/usuario/:id/conta/:idconta/:idlancamento?do=baixar" %}
+{% api-method method="post" host="http://localhost:8080" path="/financas/usuario/:id/conta/:idconta/:idlancamento?do=baixar" %}
 {% api-method-summary %}
 Baixar um lançamento
 {% endapi-method-summary %}
