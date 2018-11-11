@@ -297,6 +297,19 @@ Buscar um lançamento por id
 
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=404 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+{
+    "status": 404,
+    "message": "Usuário não encontrado"
+}
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -370,6 +383,19 @@ Buscar todas as entidades de um usuário
 
 ```
 
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=400 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+{
+    "status": 404,
+    "message": "Entidade não encontrada"
+}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -521,7 +547,10 @@ Buscar conta por id
 {% endapi-method-response-example-description %}
 
 ```
-
+{
+    "status": 404,
+    "message": "Conta não encontrada"
+}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -559,6 +588,19 @@ Baixar
 }
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=404 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+{
+    "status": 404,
+    "message": "Lançamento não encontrado"
+}
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
@@ -591,6 +633,19 @@ Estornar um lançamento
 {
     "status": 200,
     "message: ("Lançamento {} com sucesso", pago, baixado)
+}
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=302 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+{
+    "status": 404,
+    "message": "Lançamento não encontrado"
 }
 ```
 {% endapi-method-response-example %}
